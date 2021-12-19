@@ -3,7 +3,7 @@ import random
 
 def printD (string):
      print (string)
-     time.sleep(0.1)
+     time.sleep(1.5)
 
 class move:
      name = " "
